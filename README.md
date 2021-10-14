@@ -1,2 +1,5 @@
-# use-bracket-notation
-use-bracket-notation-to-find-the-nth-to-last-character-in-a-string
+// Setup
+var myStr = "Jello World";
+// Only change code below this line
+myStr = "Hello World" // Change this line
+// Only change code above this line
